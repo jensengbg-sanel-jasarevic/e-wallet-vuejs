@@ -1,4 +1,4 @@
-# Inlämningsuppgift 1 - E-wallet
+# Inlämningsuppgift 1 E-wallet
 
 Du ska bygga en digital plånbok som samlar alla kreditkort. Det ska gå och se sina kreditkort samt lägga till ett nytt.
 
